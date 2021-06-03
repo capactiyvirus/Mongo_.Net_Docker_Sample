@@ -1,0 +1,11 @@
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imasi\Documents\Programming\webapi_net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
